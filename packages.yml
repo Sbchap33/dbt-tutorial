@@ -1,3 +1,5 @@
 packages:
   - package: fivetran/github
     version: 0.1.1
+  - package: fivetran/fivetran_log
+    version: 0.3.1
